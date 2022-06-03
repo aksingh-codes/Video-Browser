@@ -1,6 +1,6 @@
 import React from "react";
 import SearchBar from "./SearchBar";
-import youtube from "../apis/youtube";
+import youtube from "../api/youtube";
 import VideoList from "./VideoList";
 import VideoDetail from "./VideoDetail";
 
